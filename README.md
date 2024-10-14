@@ -1,17 +1,17 @@
-### ZAA-STORE TUNELING 
+### XRESX GACOR VPN
 
-CONTACT FOR ORDERS : https://wa.me/6283141546555
+CONTACT FOR ORDERS : https://wa.me/6283114918419
 
 
 ### UPDATE TERLEBIH DAHULU
 <pre><code>apt update && apt upgrade -y</code></pre>
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Zaa-Store/vip/main/premi.sh && chmod +x premi.sh && ./premi.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Xresxstoresx/vps/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/Zaa-Store/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/Xresxstoresx/vps/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
