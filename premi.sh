@@ -39,7 +39,7 @@ clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo -e "  Welcome To XRESX GACOR VPN ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}ZAA STORE ® ${NC}${YELLOW}(${NC} ${green} ZAA_STORE ${NC}${YELLOW})${NC}"
+echo -e "  Auther : ${green}XRESX GACOR VPN ® ${NC}${YELLOW}(${NC} ${green} XRESX GACOR VPN ${NC}${YELLOW})${NC}"
 echo -e " © Recode By SABDO PALON STORE ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
